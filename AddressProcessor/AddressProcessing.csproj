@@ -61,7 +61,7 @@
     <Compile Include="Address\AddressFileProcessor.cs" />
     <Compile Include="CSV\CSVReaderWriter.cs" />
     <Compile Include="CSV\CSVReaderWriterForAnnotation.cs" />
-    <Compile Include="CSV\Implementation\CsvFileProvider.cs" />
+    <Compile Include="CSV\Implementation\CsvFileProviderFactory.cs" />
     <Compile Include="CSV\Implementation\CSVReader.cs" />
     <Compile Include="CSV\Implementation\CSVWriter.cs" />
     <Compile Include="CSV\Interfaces\ICSVFileProvider.cs" />
